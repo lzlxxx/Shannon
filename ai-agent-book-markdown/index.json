@@ -1,0 +1,403 @@
+[
+  {
+    "part": 1,
+    "order": 0,
+    "type": "overview",
+    "title": "Part 1 概述",
+    "url": "https://www.waylandz.com/ai-agent-book/Part1概述/",
+    "saved_file": "ai-agent-book-markdown/Part1/00_Part1概述.md",
+    "saved_title": "Part 1: Agent基础"
+  },
+  {
+    "part": 1,
+    "order": 1,
+    "type": "chapter",
+    "chapter": 1,
+    "title": "第 1 章：Agent 的本质",
+    "url": "https://www.waylandz.com/ai-agent-book/%E7%AC%AC01%E7%AB%A0-Agent%E7%9A%84%E6%9C%AC%E8%B4%A8/",
+    "saved_file": "ai-agent-book-markdown/Part1/01_第01章-Agent的本质.md",
+    "saved_title": "第 1 章：Agent 的本质"
+  },
+  {
+    "part": 1,
+    "order": 1,
+    "type": "chapter",
+    "chapter": 1,
+    "title": "第 1 章：Agent 的本质",
+    "url": "https://www.waylandz.com/ai-agent-book/第01章-Agent的本质/",
+    "saved_file": "ai-agent-book-markdown/Part1/01_第01章-Agent的本质.md",
+    "saved_title": "第 1 章：Agent 的本质"
+  },
+  {
+    "part": 1,
+    "order": 2,
+    "type": "chapter",
+    "chapter": 2,
+    "title": "第 2 章：ReAct 循环",
+    "url": "https://www.waylandz.com/ai-agent-book/第02章-ReAct循环/",
+    "saved_file": "ai-agent-book-markdown/Part1/02_第02章-ReAct循环.md",
+    "saved_title": "第 2 章：ReAct 循环"
+  },
+  {
+    "part": 2,
+    "order": 0,
+    "type": "overview",
+    "title": "Part 2 概述",
+    "url": "https://www.waylandz.com/ai-agent-book/Part2概述/",
+    "saved_file": "ai-agent-book-markdown/Part2/00_Part2概述.md",
+    "saved_title": "Part 2: 工具与扩展"
+  },
+  {
+    "part": 2,
+    "order": 3,
+    "type": "chapter",
+    "chapter": 3,
+    "title": "第 3 章：工具调用基础",
+    "url": "https://www.waylandz.com/ai-agent-book/第03章-工具调用基础/",
+    "saved_file": "ai-agent-book-markdown/Part2/03_第03章-工具调用基础.md",
+    "saved_title": "第 3 章：工具调用基础"
+  },
+  {
+    "part": 2,
+    "order": 4,
+    "type": "chapter",
+    "chapter": 4,
+    "title": "第 4 章：MCP 协议详解",
+    "url": "https://www.waylandz.com/ai-agent-book/第04章-MCP协议详解/",
+    "saved_file": "ai-agent-book-markdown/Part2/04_第04章-MCP协议详解.md",
+    "saved_title": "第 4 章：MCP 协议详解"
+  },
+  {
+    "part": 2,
+    "order": 5,
+    "type": "chapter",
+    "chapter": 5,
+    "title": "第 5 章：Skills 技能系统",
+    "url": "https://www.waylandz.com/ai-agent-book/第05章-Skills技能系统/",
+    "saved_file": "ai-agent-book-markdown/Part2/05_第05章-Skills技能系统.md",
+    "saved_title": "第 5 章：Skills 技能系统"
+  },
+  {
+    "part": 2,
+    "order": 6,
+    "type": "chapter",
+    "chapter": 6,
+    "title": "第 6 章：Hooks 与事件系统",
+    "url": "https://www.waylandz.com/ai-agent-book/第06章-Hooks与事件系统/",
+    "saved_file": "ai-agent-book-markdown/Part2/06_第06章-Hooks与事件系统.md",
+    "saved_title": "第 6 章：Hooks 与事件系统"
+  },
+  {
+    "part": 3,
+    "order": 0,
+    "type": "overview",
+    "title": "Part 3 概述",
+    "url": "https://www.waylandz.com/ai-agent-book/Part3概述/",
+    "saved_file": "ai-agent-book-markdown/Part3/00_Part3概述.md",
+    "saved_title": "Part 3: 上下文与记忆"
+  },
+  {
+    "part": 3,
+    "order": 7,
+    "type": "chapter",
+    "chapter": 7,
+    "title": "第 7 章：上下文窗口管理",
+    "url": "https://www.waylandz.com/ai-agent-book/第07章-上下文窗口管理/",
+    "saved_file": "ai-agent-book-markdown/Part3/07_第07章-上下文窗口管理.md",
+    "saved_title": "第 7 章：上下文窗口管理"
+  },
+  {
+    "part": 3,
+    "order": 8,
+    "type": "chapter",
+    "chapter": 8,
+    "title": "第 8 章：记忆架构",
+    "url": "https://www.waylandz.com/ai-agent-book/第08章-记忆架构/",
+    "saved_file": "ai-agent-book-markdown/Part3/08_第08章-记忆架构.md",
+    "saved_title": "第 8 章：记忆架构"
+  },
+  {
+    "part": 3,
+    "order": 9,
+    "type": "chapter",
+    "chapter": 9,
+    "title": "第 9 章：多轮对话设计",
+    "url": "https://www.waylandz.com/ai-agent-book/第09章-多轮对话设计/",
+    "saved_file": "ai-agent-book-markdown/Part3/09_第09章-多轮对话设计.md",
+    "saved_title": "第 9 章：多轮对话设计"
+  },
+  {
+    "part": 4,
+    "order": 0,
+    "type": "overview",
+    "title": "Part 4 概述",
+    "url": "https://www.waylandz.com/ai-agent-book/Part4概述/",
+    "saved_file": "ai-agent-book-markdown/Part4/00_Part4概述.md",
+    "saved_title": "Part 4: 单Agent模式"
+  },
+  {
+    "part": 4,
+    "order": 10,
+    "type": "chapter",
+    "chapter": 10,
+    "title": "第 10 章：Planning 模式",
+    "url": "https://www.waylandz.com/ai-agent-book/第10章-Planning模式/",
+    "saved_file": "ai-agent-book-markdown/Part4/10_第10章-Planning模式.md",
+    "saved_title": "第 10 章：Planning 模式"
+  },
+  {
+    "part": 4,
+    "order": 11,
+    "type": "chapter",
+    "chapter": 11,
+    "title": "第 11 章：Reflection 模式",
+    "url": "https://www.waylandz.com/ai-agent-book/第11章-Reflection模式/",
+    "saved_file": "ai-agent-book-markdown/Part4/11_第11章-Reflection模式.md",
+    "saved_title": "第 11 章：Reflection 模式"
+  },
+  {
+    "part": 4,
+    "order": 12,
+    "type": "chapter",
+    "chapter": 12,
+    "title": "第 12 章：Chain-of-Thought",
+    "url": "https://www.waylandz.com/ai-agent-book/第12章-Chain-of-Thought/",
+    "saved_file": "ai-agent-book-markdown/Part4/12_第12章-Chain-of-Thought.md",
+    "saved_title": "第 12 章：Chain-of-Thought"
+  },
+  {
+    "part": 5,
+    "order": 0,
+    "type": "overview",
+    "title": "Part 5 概述",
+    "url": "https://www.waylandz.com/ai-agent-book/Part5概述/",
+    "saved_file": "ai-agent-book-markdown/Part5/00_Part5概述.md",
+    "saved_title": "Part 5: 多Agent编排"
+  },
+  {
+    "part": 5,
+    "order": 13,
+    "type": "chapter",
+    "chapter": 13,
+    "title": "第 13 章：编排基础",
+    "url": "https://www.waylandz.com/ai-agent-book/第13章-编排基础/",
+    "saved_file": "ai-agent-book-markdown/Part5/13_第13章-编排基础.md",
+    "saved_title": "第 13 章：编排基础"
+  },
+  {
+    "part": 5,
+    "order": 14,
+    "type": "chapter",
+    "chapter": 14,
+    "title": "第 14 章：DAG 工作流",
+    "url": "https://www.waylandz.com/ai-agent-book/第14章-DAG工作流/",
+    "saved_file": "ai-agent-book-markdown/Part5/14_第14章-DAG工作流.md",
+    "saved_title": "第 14 章：DAG 工作流"
+  },
+  {
+    "part": 5,
+    "order": 15,
+    "type": "chapter",
+    "chapter": 15,
+    "title": "第 15 章：Supervisor 模式",
+    "url": "https://www.waylandz.com/ai-agent-book/第15章-Supervisor模式/",
+    "saved_file": "ai-agent-book-markdown/Part5/15_第15章-Supervisor模式.md",
+    "saved_title": "第 15 章：Supervisor 模式"
+  },
+  {
+    "part": 5,
+    "order": 16,
+    "type": "chapter",
+    "chapter": 16,
+    "title": "第 16 章：Handoff 机制",
+    "url": "https://www.waylandz.com/ai-agent-book/第16章-Handoff机制/",
+    "saved_file": "ai-agent-book-markdown/Part5/16_第16章-Handoff机制.md",
+    "saved_title": "第 16 章：Handoff 机制"
+  },
+  {
+    "part": 6,
+    "order": 0,
+    "type": "overview",
+    "title": "Part 6 概述",
+    "url": "https://www.waylandz.com/ai-agent-book/Part6概述/",
+    "saved_file": "ai-agent-book-markdown/Part6/00_Part6概述.md",
+    "saved_title": "Part 6: 高级推理"
+  },
+  {
+    "part": 6,
+    "order": 17,
+    "type": "chapter",
+    "chapter": 17,
+    "title": "第 17 章：Tree-of-Thoughts",
+    "url": "https://www.waylandz.com/ai-agent-book/第17章-Tree-of-Thoughts/",
+    "saved_file": "ai-agent-book-markdown/Part6/17_第17章-Tree-of-Thoughts.md",
+    "saved_title": "第 17 章：Tree-of-Thoughts"
+  },
+  {
+    "part": 6,
+    "order": 18,
+    "type": "chapter",
+    "chapter": 18,
+    "title": "第 18 章：Debate 模式",
+    "url": "https://www.waylandz.com/ai-agent-book/第18章-Debate模式/",
+    "saved_file": "ai-agent-book-markdown/Part6/18_第18章-Debate模式.md",
+    "saved_title": "第 18 章：Debate 模式"
+  },
+  {
+    "part": 6,
+    "order": 19,
+    "type": "chapter",
+    "chapter": 19,
+    "title": "第 19 章：Research-Synthesis",
+    "url": "https://www.waylandz.com/ai-agent-book/第19章-Research-Synthesis/",
+    "saved_file": "ai-agent-book-markdown/Part6/19_第19章-Research-Synthesis.md",
+    "saved_title": "第 19 章：Research Synthesis"
+  },
+  {
+    "part": 7,
+    "order": 0,
+    "type": "overview",
+    "title": "Part 7 概述",
+    "url": "https://www.waylandz.com/ai-agent-book/Part7概述/",
+    "saved_file": "ai-agent-book-markdown/Part7/00_Part7概述.md",
+    "saved_title": "Part 7: 生产架构"
+  },
+  {
+    "part": 7,
+    "order": 20,
+    "type": "chapter",
+    "chapter": 20,
+    "title": "第 20 章：三层架构设计",
+    "url": "https://www.waylandz.com/ai-agent-book/第20章-三层架构设计/",
+    "saved_file": "ai-agent-book-markdown/Part7/20_第20章-三层架构设计.md",
+    "saved_title": "第 20 章：三层架构设计"
+  },
+  {
+    "part": 7,
+    "order": 21,
+    "type": "chapter",
+    "chapter": 21,
+    "title": "第 21 章：Temporal 工作流",
+    "url": "https://www.waylandz.com/ai-agent-book/第21章-Temporal工作流/",
+    "saved_file": "ai-agent-book-markdown/Part7/21_第21章-Temporal工作流.md",
+    "saved_title": "第 21 章：Temporal 工作流"
+  },
+  {
+    "part": 7,
+    "order": 22,
+    "type": "chapter",
+    "chapter": 22,
+    "title": "第 22 章：可观测性",
+    "url": "https://www.waylandz.com/ai-agent-book/第22章-可观测性/",
+    "saved_file": "ai-agent-book-markdown/Part7/22_第22章-可观测性.md",
+    "saved_title": "第 22 章：可观测性"
+  },
+  {
+    "part": 8,
+    "order": 0,
+    "type": "overview",
+    "title": "Part 8 概述",
+    "url": "https://www.waylandz.com/ai-agent-book/Part8概述/",
+    "saved_file": "ai-agent-book-markdown/Part8/00_Part8概述.md",
+    "saved_title": "Part 8: 企业级特性"
+  },
+  {
+    "part": 8,
+    "order": 23,
+    "type": "chapter",
+    "chapter": 23,
+    "title": "第 23 章：Token 预算控制",
+    "url": "https://www.waylandz.com/ai-agent-book/第23章-Token预算控制/",
+    "saved_file": "ai-agent-book-markdown/Part8/23_第23章-Token预算控制.md",
+    "saved_title": "第 23 章：Token 预算控制"
+  },
+  {
+    "part": 8,
+    "order": 24,
+    "type": "chapter",
+    "chapter": 24,
+    "title": "第 24 章：策略治理",
+    "url": "https://www.waylandz.com/ai-agent-book/第24章-策略治理/",
+    "saved_file": "ai-agent-book-markdown/Part8/24_第24章-策略治理.md",
+    "saved_title": "第 24 章：策略治理（OPA）"
+  },
+  {
+    "part": 8,
+    "order": 25,
+    "type": "chapter",
+    "chapter": 25,
+    "title": "第 25 章：安全执行",
+    "url": "https://www.waylandz.com/ai-agent-book/第25章-安全执行/",
+    "saved_file": "ai-agent-book-markdown/Part8/25_第25章-安全执行.md",
+    "saved_title": "第 25 章：安全执行（WASI 沙箱）"
+  },
+  {
+    "part": 8,
+    "order": 26,
+    "type": "chapter",
+    "chapter": 26,
+    "title": "第 26 章：多租户设计",
+    "url": "https://www.waylandz.com/ai-agent-book/第26章-多租户设计/",
+    "saved_file": "ai-agent-book-markdown/Part8/26_第26章-多租户设计.md",
+    "saved_title": "第 26 章：多租户设计"
+  },
+  {
+    "part": 9,
+    "order": 0,
+    "type": "overview",
+    "title": "Part 9 概述",
+    "url": "https://www.waylandz.com/ai-agent-book/Part9概述/",
+    "saved_file": "ai-agent-book-markdown/Part9/00_Part9概述.md",
+    "saved_title": "Part 9: 前沿实践"
+  },
+  {
+    "part": 9,
+    "order": 27,
+    "type": "chapter",
+    "chapter": 27,
+    "title": "第 27 章：Deep Research",
+    "url": "https://www.waylandz.com/ai-agent-book/第27章-Deep-Research/",
+    "saved_file": "ai-agent-book-markdown/Part9/27_第27章-Deep-Research.md",
+    "saved_title": "第 27 章：Deep Research"
+  },
+  {
+    "part": 9,
+    "order": 28,
+    "type": "chapter",
+    "chapter": 28,
+    "title": "第 28 章：Computer Use",
+    "url": "https://www.waylandz.com/ai-agent-book/第28章-Computer-Use/",
+    "saved_file": "ai-agent-book-markdown/Part9/28_第28章-Computer-Use.md",
+    "saved_title": "第 28 章：Computer Use"
+  },
+  {
+    "part": 9,
+    "order": 29,
+    "type": "chapter",
+    "chapter": 29,
+    "title": "第 29 章：Agentic Coding",
+    "url": "https://www.waylandz.com/ai-agent-book/第29章-Agentic-Coding/",
+    "saved_file": "ai-agent-book-markdown/Part9/29_第29章-Agentic-Coding.md",
+    "saved_title": "第 29 章：Agentic Coding"
+  },
+  {
+    "part": 9,
+    "order": 30,
+    "type": "chapter",
+    "chapter": 30,
+    "title": "第 30 章：Background Agents",
+    "url": "https://www.waylandz.com/ai-agent-book/第30章-Background-Agents/",
+    "saved_file": "ai-agent-book-markdown/Part9/30_第30章-Background-Agents.md",
+    "saved_title": "第 30 章：Background Agents"
+  },
+  {
+    "part": 9,
+    "order": 31,
+    "type": "chapter",
+    "chapter": 31,
+    "title": "第 31 章：分层模型策略",
+    "url": "https://www.waylandz.com/ai-agent-book/第31章-分层模型策略/",
+    "saved_file": "ai-agent-book-markdown/Part9/31_第31章-分层模型策略.md",
+    "saved_title": "第 31 章：分层模型策略"
+  }
+]
